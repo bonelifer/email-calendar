@@ -189,7 +189,11 @@ See [LICENSE](LICENSE) for more information.
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+Contributions are welcome!
+
+- **Bug reports**: [Open an issue](https://github.com/bonelifer/email-calendar/issues).
+- **Everything else** (questions, feature requests, ideas, general discussion): [Use Discussions](https://github.com/bonelifer/email-calendar/discussions).
+- Pull requests are welcome for bug fixes or discussed features.
 
 ## Acknowledgments
 
