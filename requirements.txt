@@ -1,0 +1,15 @@
+# Google Calendar API and authentication
+google-api-python-client>=2.0.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.0
+google-auth>=2.0.0
+
+# Date and time handling
+pytz>=2021.1
+python-dateutil>=2.8.1
+
+# HTML parsing and formatting
+beautifulsoup4>=4.9.3
+
+# HTTP requests (weather forecast)
+requests>=2.25.0

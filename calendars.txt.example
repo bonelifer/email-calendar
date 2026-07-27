@@ -1,0 +1,4 @@
+# Calendars available to events.py, one per line.
+# Format: calendar_id:<id>(<Name>); recipients:<email1>, <email2>
+# <Name> is passed to events.py via --calendar.
+calendar_id:your_calendar_id@group.calendar.google.com(Doctors); recipients:recipient1@example.com, recipient2@example.com

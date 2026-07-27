@@ -1,0 +1,15 @@
+# Secrets — never commit
+config.ini
+calendars.txt
+credentials.json
+client_secret_*.json
+token.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

@@ -1,0 +1,26 @@
+[SMTP]
+server = smtp.gmail.com
+port = 465
+username = your_email@gmail.com
+password = your_app_password
+from_email = your_email@gmail.com
+SSL = True
+
+[Defaults]
+timezone = America/Chicago
+print_usa_date = True
+
+[PrintCalendar]
+recipients = recipient1@example.com, recipient2@example.com
+
+[WeekAhead]
+recipients = recipient1@example.com, recipient2@example.com
+
+[TokenHealth]
+recipients = recipient1@example.com
+
+[Weather]
+enabled = True
+latitude = 0.0
+longitude = 0.0
+simpleWeather = False
