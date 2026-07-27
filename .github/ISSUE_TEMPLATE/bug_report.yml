@@ -1,0 +1,39 @@
+name: Bug report
+description: Report a problem with one of the scripts
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: A clear description of the bug, including what you expected instead.
+    validations:
+      required: true
+  - type: dropdown
+    id: script
+    attributes:
+      label: Which script?
+      options:
+        - events.py
+        - print.py
+        - week-ahead.py
+        - token-health.py
+        - config-validator.py
+        - runcalendar.sh
+        - Other / not sure
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Paste any error output. Redact secrets, calendar IDs, and email addresses.
+      render: shell
+  - type: input
+    id: python-version
+    attributes:
+      label: Python version
+      placeholder: "3.10"
+    validations:
+      required: false
