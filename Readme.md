@@ -181,12 +181,6 @@ calendar_id:calendarid1@group.calendar.google.com(Doctors); recipients:usr@gmail
 calendar_id:calendarid2@group.calendar.google.com(Work); recipients:usr@gmail.com
 ```
 
-## License
-
-This project is licensed under the **GNU General Public License v3.0**.
-
-See [LICENSE](LICENSE) for more information.
-
 ## Contributing
 
 Contributions are welcome!
@@ -194,6 +188,12 @@ Contributions are welcome!
 - **Bug reports**: [Open an issue](https://github.com/bonelifer/email-calendar/issues).
 - **Everything else** (questions, feature requests, ideas, general discussion): [Use Discussions](https://github.com/bonelifer/email-calendar/discussions).
 - Pull requests are welcome for bug fixes or discussed features.
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0**.
+
+See [LICENSE](LICENSE) for more information.
 
 ## Acknowledgments
 
