@@ -189,18 +189,18 @@ Contributions are welcome!
 - **Everything else** (questions, feature requests, ideas, general discussion): [Use Discussions](https://github.com/bonelifer/email-calendar/discussions).
 - Pull requests are welcome for bug fixes or discussed features.
 
-## License
-
-This project is licensed under the **GNU General Public License v3.0**.
-
-See [LICENSE](LICENSE) for more information.
-
 ## Acknowledgments
 
 - Google Calendar API for providing the calendar data.
 - Python's `smtplib` and `email` libraries for handling email sending.
 - `pytz` and `dateutil` for timezone and date handling.
 - Code review, bug fixes, and documentation assisted by [Claude](https://www.anthropic.com/claude).
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0**.
+
+See [LICENSE](LICENSE) for more information.
 
 ---
 
